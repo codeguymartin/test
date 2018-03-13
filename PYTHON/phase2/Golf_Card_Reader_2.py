@@ -4,7 +4,7 @@
 
 ## Aim:
 
-
+a=1
 
 ## Import libraries: GDAL is critical for lat long and geotiff
 import numpy as np
